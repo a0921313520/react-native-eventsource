@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.license = package["license"]
   s.homepage = package["homepage"]
   s.platform = :ios, "9.0"
-  s.source = { :git => "https://github.com/gpsgate/react-native-eventsource.git", :tag => "v#{s.version}" }
+  s.source = { :git => "https://github.com/a0921313520/react-native-eventsource.git", :tag => "v#{s.version}" }
   s.source_files = "ios/**/*.{h,m}"
   s.dependency "React"
 end
