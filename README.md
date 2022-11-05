@@ -1,8 +1,8 @@
+# SB2.0 使用，叉回來確保版本穩定，勿改勿刪
+
 ## fork from @gpsgate/react-native-eventsource
 
 @gpsgate/react-native-eventsource
-
-SB2.0 使用，叉回來確保版本穩定，勿改勿刪
 
 ### Installation
 
